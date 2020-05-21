@@ -1,0 +1,16 @@
+/Users/scott.walters/vscode-container/src/hello-world/bin/Debug/netcoreapp3.1/hello-world.deps.json
+/Users/scott.walters/vscode-container/src/hello-world/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.json
+/Users/scott.walters/vscode-container/src/hello-world/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.dev.json
+/Users/scott.walters/vscode-container/src/hello-world/bin/Debug/netcoreapp3.1/hello-world.dll
+/Users/scott.walters/vscode-container/src/hello-world/bin/Debug/netcoreapp3.1/hello-world.pdb
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.csprojAssemblyReference.cache
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfoInputs.cache
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfo.cs
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.csproj.CoreCompileInputs.cache
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.MvcApplicationPartsAssemblyInfo.cache
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.RazorTargetAssemblyInfo.cache
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/staticwebassets/hello-world.StaticWebAssets.Manifest.cache
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/staticwebassets/hello-world.StaticWebAssets.xml
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.dll
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.pdb
+/Users/scott.walters/vscode-container/src/hello-world/obj/Debug/netcoreapp3.1/hello-world.genruntimeconfig.cache

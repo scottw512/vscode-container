@@ -1,0 +1,55 @@
+Starting OmniSharp server at 5/21/2020, 2:27:28 PM
+    Target: /usr/src/app/hello-world
+
+OmniSharp server started.
+    Path: /root/.vscode/extensions/ms-dotnettools.csharp-1.21.18/.omnisharp/1.35.1/run
+    PID: 217
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on debian 9.0 (x64)
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to dotnet
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: StandAlone 16.4 - "/root/.vscode/extensions/ms-dotnettools.csharp-1.21.18/.omnisharp/1.35.1/omnisharp/.msbuild/Current/Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        MSBUILD_EXE_PATH environment variable set to '/root/.vscode/extensions/ms-dotnettools.csharp-1.21.18/.omnisharp/1.35.1/omnisharp/.msbuild/Current/Bin/MSBuild.dll'
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: StandAlone 16.4 - "/root/.vscode/extensions/ms-dotnettools.csharp-1.21.18/.omnisharp/1.35.1/omnisharp/.msbuild/Current/Bin"
+            CscToolExe = csc.exe
+            MSBuildToolsPath = /root/.vscode/extensions/ms-dotnettools.csharp-1.21.18/.omnisharp/1.35.1/omnisharp/.msbuild/Current/Bin
+            CscToolPath = /root/.vscode/extensions/ms-dotnettools.csharp-1.21.18/.omnisharp/1.35.1/omnisharp/.msbuild/Current/Bin/Roslyn
+            BypassFrameworkInstallChecks = true
+            MSBuildExtensionsPath = /root/.vscode/extensions/ms-dotnettools.csharp-1.21.18/.omnisharp/1.35.1/omnisharp/.msbuild
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in '/usr/src/app/hello-world'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Could not find any Cake files
+[info]: OmniSharp.MSBuild.ProjectSystem
+        No solution files found in '/usr/src/app/hello-world'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/usr/src/app/hello-world/src/hello-world.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/usr/src/app/hello-world'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /usr/src/app/hello-world/src/hello-world.csproj
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Could not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpFormattingWorkspaceOptionsProvider, Order: 0
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.RenameWorkspaceOptionsProvider, Order: 100
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.ImplementTypeWorkspaceOptionsProvider, Order: 110
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.BlockStructureWorkspaceOptionsProvider, Order: 140
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/usr/src/app/hello-world' on host 99.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Successfully loaded project file '/usr/src/app/hello-world/src/hello-world.csproj'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Adding project '/usr/src/app/hello-world/src/hello-world.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: hello-world

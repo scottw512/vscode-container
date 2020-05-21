@@ -1,0 +1,9 @@
+[2020-05-21 14:26:03.611] [sharedprocess] [info] main {"machineId":"3424b72ee104e99be183dc60a7b751a058f3ff95747d04922fb59889f7e032b1","windowId":2}
+[2020-05-21 14:26:03.747] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/src/app/usrsrc/User/snippets'
+[2020-05-21 14:26:16.007] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-05-21 14:26:16.643] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /tmp/ef2e2abe-f1f4-406d-9f17-7f4f1a526114
+[2020-05-21 14:26:16.785] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-dotnettools.csharp-1.21.18: ms-dotnettools.csharp
+[2020-05-21 14:26:16.786] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-dotnettools.csharp-1.21.18
+[2020-05-21 14:26:16.793] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-05-21 14:26:16.824] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-05-21 14:26:43.644] [sharedprocess] [info] Starting to clean up unused language packs.

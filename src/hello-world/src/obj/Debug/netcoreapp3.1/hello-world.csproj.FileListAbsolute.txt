@@ -1,0 +1,17 @@
+/usr/src/app/hello-world/src/bin/Debug/netcoreapp3.1/hello-world
+/usr/src/app/hello-world/src/bin/Debug/netcoreapp3.1/hello-world.deps.json
+/usr/src/app/hello-world/src/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.json
+/usr/src/app/hello-world/src/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.dev.json
+/usr/src/app/hello-world/src/bin/Debug/netcoreapp3.1/hello-world.dll
+/usr/src/app/hello-world/src/bin/Debug/netcoreapp3.1/hello-world.pdb
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.csprojAssemblyReference.cache
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfoInputs.cache
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfo.cs
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.csproj.CoreCompileInputs.cache
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.MvcApplicationPartsAssemblyInfo.cache
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.RazorTargetAssemblyInfo.cache
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/staticwebassets/hello-world.StaticWebAssets.Manifest.cache
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/staticwebassets/hello-world.StaticWebAssets.xml
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.dll
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.pdb
+/usr/src/app/hello-world/src/obj/Debug/netcoreapp3.1/hello-world.genruntimeconfig.cache

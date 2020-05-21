@@ -1,0 +1,18 @@
+Installing C# dependencies...
+Platform: linux, x86_64, name=debian, version=9
+
+Downloading package 'OmniSharp for Linux (x64)' (44876 KB).................... Done!
+Validating download...
+Integrity Check succeeded.
+Installing package 'OmniSharp for Linux (x64)'
+
+Downloading package '.NET Core Debugger (linux / x64)' (54671 KB).................... Done!
+Validating download...
+Integrity Check succeeded.
+Installing package '.NET Core Debugger (linux / x64)'
+
+Downloading package 'Razor Language Server (Linux / x64)' (52519 KB).................... Done!
+Installing package 'Razor Language Server (Linux / x64)'
+
+Finished
+
